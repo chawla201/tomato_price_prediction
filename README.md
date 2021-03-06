@@ -1,7 +1,6 @@
 # Tomato Price Prediction
 ## tl;dr
-- Scraped Tomato prices in Karnataka from Jan-01-
-2015 to Feb-01-2021 from the [Agricultural Marketing website of the Government of India](https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=30-Jun-2020&DateTo=30-Jun-2020&Fr_Date=30-Jun-2020&To_Date=30-Jun-2020&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select--)
+- Scraped Tomato prices in Karnataka from Jan-01-2015 to Feb-01-2021 from the [Agricultural Marketing website of the Government of India](https://agmarknet.gov.in/SearchCmmMkt.aspx?Tx_Commodity=78&Tx_State=0&Tx_District=0&Tx_Market=0&DateFrom=30-Jun-2020&DateTo=30-Jun-2020&Fr_Date=30-Jun-2020&To_Date=30-Jun-2020&Tx_Trend=0&Tx_CommodityHead=Tomato&Tx_StateHead=--Select--&Tx_DistrictHead=--Select--&Tx_MarketHead=--Select--)
 - Trained a Random Forest Regression model
 - Developed a Flask API
 - Developed a web app using Flask 
