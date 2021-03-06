@@ -14,6 +14,7 @@ tomato_price_prediction/ #Home Directory
   |-code.ipynb #Python notebook with EDA and Model developemnt code
   |-prediction_model.py #functions used in api.py
   ```
+  <b>Note:</b> <a href="https://drive.google.com/drive/folders/1p39S_qRTGpUSbVFK65kb75pRQMAtkogR?usp=sharing">Click here</a> to access the pre-trained ML model.
 ## Screenshots
 <img src="https://github.com/chawla201/tomato_price_prediction/blob/main/images/Screenshot1.jpg">
 <img src="https://github.com/chawla201/tomato_price_prediction/blob/main/images/Screenshot2.jpg">
