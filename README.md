@@ -8,7 +8,7 @@ tomato_price_prediction/ #Home Directory
   |-templates/
     |-home.html #html code for home page
     |-predict.html #html page for predict page
-  |-Scrapper.ipynb #Python NOtebook for web scraping code
+  |-Scrapper.ipynb #Python Notebook for web scraping code
   |-api.py #Flask API
   |-app.py #Flask Web App
   |-code.ipynb #Python notebook with EDA and Model developemnt code
